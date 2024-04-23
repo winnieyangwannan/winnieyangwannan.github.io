@@ -9,16 +9,9 @@ nav_order: 2
 
 ---
 
+---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/project1/science.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-</div>
+
 
 
 
@@ -31,7 +24,16 @@ Wannan Yang, Chen Sun, Roman Huszár, Thomas Hainmueller, Kirill Kiselev, [Györ
 
 [Project website](https://winnieyangwannan.github.io/RippleTagging/)
 
-### The paper
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="/assets/img/project1/science.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+
 
 <object data="../assets/pdf/rippleTagging.pdf" width="1000" height="1000" type='application/pdf'></object>
 
