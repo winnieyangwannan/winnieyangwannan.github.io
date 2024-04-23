@@ -1,81 +1,194 @@
 ---
-layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+layout: about
+social: true # includes social icons at the bottom of the page
+title: 🧠🏷️ Selection of experience for memory by hippocampal sharp wave ripples
+description: 
+img: assets/img/project1/cartoon_github.png
 importance: 1
-category: work
-related_publications: true
+category: Neuroscience
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="/assets/img/project1/science.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+Wannan Yang<sup>1,3</sup>, Chen Sun<sup>2</sup>, Roman Huszár<sup>1,3</sup>, Thomas Hainmueller<sup>1,4</sup>, Kirill Kiselev<sup>3</sup>, [György Buzsáki<sup>1,3*</sup>](https://buzsakilab.com/wp/buzsaki/)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Affiliations:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+1.Neuroscience Institute and Department of Neurology, NYU Grossman School of Medicine, New York University, New York, USA,
+2.Mila - Quebec AI Institute, Montréal, Canada,
+3.Center for Neural Science, New York University, New York, USA,
+4.Department of Psychiatry, New York University Langone Medical Center, New York, USA  
+
+
+---
+
+<br />
+<br />
+
+*You can access the paper from the _Science_ website [here](https://www.science.org/doi/10.1126/science.adk8261)
+, the project website [here](https://winnieyangwannan.github.io/RippleTagging/Paper/),
+or from the Buzsaki lab website [here](https://buzsakilab.com/wp/publications/).*{: style="font-size: 2rem;" }
+
+<br />
+<br />
+
+
+---
+How does the brain select what to consolidate during sleep? Our new work sheds light on the brain's mechanism for selective
+memory consolidation.
+We propose that awake ripples act as a memory tag 🏷️-- the memories that are tagged by awake ripples are selectively consolidated
+during sleep!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/cartoon_github.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+
 </div>
-<div class="row">
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+Using dual sided probes, we were able to record up to 500 neurons simultaneously while animals perform an alternation task on
+the figure-8 maze.
+
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project1/task_3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+UMAP visualization revealed that population activity of the hippocampus corresponded to a latent space that topologically
+resembled the physical environment. This visual, though beautiful, was not surprising since hippocampus is known to keep
+a ‘cognitive map’ of the world. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project1/pos_manifold_4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
+
+
+What was really unexpected was when we colored the neural manifold by trial number, we  saw the hippocampal states systematically 
+vary according to trial sequence.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project1/trial_manifold_5.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
+
+As per Heraclitus, “No man ever steps in the same river twice. For it’s not the same river and he’s not the same man.” 
+Even as the animal revisits the same places, the brain state is never the same twice, always in perpetual flux, changing
+in a systematic way. ⏳
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="677" height="500" src="https://www.youtube.com/embed/BiV5FDGRY-c" title="UMAP manifold (unsupervised) for figure-8 maze task." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/project1/manifold_pos_rotation.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
 </div>
-```
 
-{% endraw %}
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+When animals consume reward, synchronous population events, aka sharp wave ripples, usually take place. Ripples are known to
+'replay' past experiences. Crucially,  we were able to decode not only which places were replayed 
+but also which lap events were replayed. 
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project1/awake_replay_7.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+During NREM sleep 😴, ripples resume their activity. Are awake ripples related to those during subsequent sleep (post-sleep)? 
+We compared their population activities.
+
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project1/sleep_replay_8.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+The distribution patterns of trial identity during post-sleep were highly correlated with that during maze replay, but not
+with pre-sleep replay. Mixed-effect linear regression analysis confirmed that post-sleep replay patterns were best explained 
+by that during awake replay. The trials that were replayed more during awake ripples were selectively consolidated more 
+during sleep!!
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project1/sleep_awake_9.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+We replicated our main conclusions using 4 different methods – including decoding from the original high dimensional space
+using different distance metrics, decoding from UMAP low-dimensional embedding, as well as PCA space. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project1/main_consistent_10.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Taken together, our results suggest that awake ripples act as a memory tag. Experience tagged by the awake ripples are 
+selectively consolidated numerous times during sleep. 
+
+---
+
+
+
