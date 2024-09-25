@@ -20,8 +20,6 @@ Wannan Yang, Chen Sun, Roman Huszár, Thomas Hainmueller, Kirill Kiselev, [Györ
 
 [Paper link](https://www.science.org/doi/10.1126/science.adk8261)
 
-[Buzsaki lab link](https://buzsakilab.com/wp/publications/)
-
 [Project website](https://winnieyangwannan.github.io/RippleTagging/)
 
 <div class="row mt-3">
@@ -34,8 +32,6 @@ Wannan Yang, Chen Sun, Roman Huszár, Thomas Hainmueller, Kirill Kiselev, [Györ
     </div>
 </div>
 
-
-<object data="../assets/pdf/rippleTagging.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br />
 <br />

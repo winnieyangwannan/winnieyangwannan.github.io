@@ -1,7 +1,7 @@
 ---
 layout: about
 social: true # includes social icons at the bottom of the page
-title: 🧠🏷️ Selection of experience for memory by hippocampal sharp wave ripples
+title: 🧠🏷️ Memory Consolidation
 description: 
 img: assets/img/project1/cartoon_github.png
 importance: 1
@@ -31,7 +31,7 @@ Affiliations:
 <br />
 <br />
 
-*You can access the paper from the _Science_ website [here](https://www.science.org/doi/10.1126/science.adk8261)
+*You can access the paper from the Science website [here](https://www.science.org/doi/10.1126/science.adk8261)
 , the project website [here](https://winnieyangwannan.github.io/RippleTagging/Paper/),
 or from the Buzsaki lab website [here](https://buzsakilab.com/wp/publications/).*{: style="font-size: 2rem;" }
 
