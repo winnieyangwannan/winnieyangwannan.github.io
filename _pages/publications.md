@@ -9,10 +9,6 @@ nav_order: 2
 
 ---
 
----
-
-
-
 
 
 Wannan Yang, Chen Sun, Roman Huszár, Thomas Hainmueller, Kirill Kiselev, [György Buzsáki](https://buzsakilab.com/wp/buzsaki/). 
