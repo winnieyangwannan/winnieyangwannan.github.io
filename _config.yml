@@ -125,9 +125,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Winnie's blog # blog_name will be displayed in your blog page
-blog_description:
-permalink: /blog/:year/:title/
+#blog_name: Winnie's blog # blog_name will be displayed in your blog page
+#blog_description:
+#permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
