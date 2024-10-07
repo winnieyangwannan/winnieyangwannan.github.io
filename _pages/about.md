@@ -22,7 +22,7 @@ social: ture # includes social icons at the bottom of the page
 ###  Welcome to My Corner of the Web! 👋
 
 I'm Winnie, a PhD candidate at NYU's [Buzsakilab](https://buzsakilab.com/wp/publications/),
-where I'm decoding rodent 'dreams' to unravel the mysteries of [memory consolidation during sleep](https://winnieyangwannan.github.io/RippleTagging/).
+where I'm decoding 'dreams' (replays) to unravel the mysteries of [memory consolidation during sleep](https://winnieyangwannan.github.io/RippleTagging/).
 
 ### From Neuroscience to AI Safety
 As fascinating as brain research is, recent advancements in Large Language Models (LLMs) have sparked a profound shift in

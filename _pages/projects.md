@@ -5,6 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
+social: true # includes social icons at the bottom of the page
 display_categories: [AI, Neuroscience]
 horizontal: false
 ---
