@@ -21,8 +21,10 @@ social: ture # includes social icons at the bottom of the page
 
 ###  Welcome to My Corner of the Web! 👋
 
-I'm Winnie, a PhD candidate at NYU's [Buzsakilab](https://buzsakilab.com/wp/publications/),
-where I'm decoding 'dreams' (replays) to unravel the mysteries of [memory consolidation during sleep](https://winnieyangwannan.github.io/RippleTagging/).
+I'm Winnie, a PhD candidate at New York University (NYU)'s [Buzsakilab](https://buzsakilab.com/wp/publications/),
+where I'm decoding the content of 'dream' (replay) to unravel the mechanism of
+[memory consolidation during sleep](https://winnieyangwannan.github.io/RippleTagging/) (my work was recently published in
+[Science](https://www.science.org/doi/10.1126/science.adk8261)).
 
 ### From Neuroscience to AI Safety
 As fascinating as brain research is, recent advancements in Large Language Models (LLMs) have sparked a profound shift in
@@ -31,9 +33,9 @@ challenges of our time!
  
 
 ### Current Focus
-I'm in the process of transitioning from neuroscience to AI safety research. My current interests include:
+I've started the exciting journey of transitioning from neuroscience to AI safety research. My current interests include:
 
-- Interpretability in AI systems
+- [Interpretability for safe AI](https://winnieyangwannan.github.io/LLM_Deception/) 
 - Adversarial robustness
 
 
