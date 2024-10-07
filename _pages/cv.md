@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 # CV
 
-<object data="../assets/cv/CV_Wannan_Yang_RealityLab.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/cv/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 [//]: # (<object data="../assets/pdf/rippleTagging.pdf" width="1000" height="1000" type='application/pdf'></object>)
 

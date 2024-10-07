@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Neuroscience, AI]
+display_categories: [AI, Neuroscience]
 horizontal: false
 ---
 

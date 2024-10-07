@@ -5,9 +5,11 @@ title: 🧠🏷️ Memory Consolidation
 description: 
 img: assets/img/project1/cartoon_github.png
 importance: 1
-category: Neuroscience
+category: old
 related_publications: false
 ---
+
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
