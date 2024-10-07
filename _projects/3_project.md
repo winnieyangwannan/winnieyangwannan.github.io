@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM Deception
+title: 😈🤖 LLM Deception
 permalink: /LLM_Deception/
 description: Universal motif when LLMs knowingly lie.
 img: assets/img/project_deception/deception.png
