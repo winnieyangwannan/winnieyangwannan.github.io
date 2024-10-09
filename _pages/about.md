@@ -22,7 +22,7 @@ social: ture # includes social icons at the bottom of the page
 ###  Welcome to My Corner of the Web! 👋
 
 I'm Winnie, a PhD candidate at New York University (NYU)'s [Buzsakilab](https://buzsakilab.com/wp/publications/),
-where I'm decoding the content of 'dream' (replay) to unravel the mechanism of
+where I decode the content of 'dream' (replay) to unravel the mechanism of
 [memory consolidation during sleep](https://winnieyangwannan.github.io/RippleTagging/) (my work was recently published in
 [Science](https://www.science.org/doi/10.1126/science.adk8261)).
 
