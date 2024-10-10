@@ -15,7 +15,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: ture # includes social icons at the bottom of the page
 ---
-# Winnie Yang
+# Wannan (Winnie) Yang
 \
 &nbsp;
 
@@ -24,7 +24,7 @@ social: ture # includes social icons at the bottom of the page
 I'm Winnie, a PhD candidate at New York University (NYU)'s [Buzsakilab](https://buzsakilab.com/wp/publications/),
 where I decode the content of 'dream' (replay) to unravel the mechanism of
 [memory consolidation during sleep](https://winnieyangwannan.github.io/RippleTagging/) (my work was recently published in
-[Science](https://www.science.org/doi/10.1126/science.adk8261)).
+[Science](https://www.science.org/doi/10.1126/science.adk8261) 🥳).
 
 ### From Neuroscience to AI Safety
 As fascinating as brain research is, recent advancements in Large Language Models (LLMs) have sparked a profound shift in

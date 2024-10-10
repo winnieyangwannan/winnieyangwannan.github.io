@@ -10,6 +10,11 @@ display_categories: [AI, Neuroscience]
 horizontal: false
 ---
 
+> ##### NOTE!
+> This page is under construction. More projects will be updated soon ⏳ 
+{: .block-warning }
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

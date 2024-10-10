@@ -12,7 +12,8 @@ nav_order: 2
 
 <u> W. Yang </u> , G. Buzsáki. (2024). 
 Interpretability of LLMs Deception: Universal Motif. ***ICLR*** (under review).
-[[Paper link](https://openreview.net/attachment?id=znL549Ymoi&name=pdf)]   
+[[Paper link](https://openreview.net/attachment?id=znL549Ymoi&name=pdf)]    [[Github link](https://github.com/winnieyangwannan/deception_and_jailbreak)] 
+
 
 ---
 
