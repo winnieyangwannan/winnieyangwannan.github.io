@@ -26,16 +26,29 @@ where I decode the content of 'dream' (replay) to unravel the mechanism of
 [memory consolidation during sleep](https://winnieyangwannan.github.io/RippleTagging/) (my work was recently published in
 [Science](https://www.science.org/doi/10.1126/science.adk8261) 🥳).
 
-### From Neuroscience to AI Safety
-As fascinating as brain research is, recent advancements in Large Language Models (LLMs) have sparked a profound shift in
+### From Neuroscience to AI
+Recent advancements in Large Language Models (LLMs) have sparked a profound shift in
 my research focus. I've come to recognize that ensuring the safety of artificial intelligence is one of the most critical
 challenges of our time!
+
+I am also passionate about applying insight from my neuroscience research to build innovative AI-powered human-machine interfaces.
+
  
 
 ### Current Focus
-I've started the exciting journey of transitioning from neuroscience to AI safety research. My current interests include:
+I've started the exciting journey of transitioning from neuroscience to AI research. My current interests include:
 
-- [Interpretability for safe AI](https://winnieyangwannan.github.io/LLM_Deception/) 
+- [Interpretability for AI safety](https://winnieyangwannan.github.io/LLM_Deception/) 
 - Adversarial robustness
+
+---
+\
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## *NEWS*{: style="color: #5663b0;" }
+
+- [2024-03-28] Our 'ripple-tagging' paper was published in [Science](https://www.science.org/doi/10.1126/science.adk8261). 
 
 
