@@ -48,7 +48,14 @@ I've started the exciting journey of transitioning from neuroscience to AI resea
 &nbsp;
 &nbsp;
 ## *NEWS*{: style="color: #5663b0;" }
+&nbsp;
+&nbsp;
 
-- [2024-03-28] Our 'ripple-tagging' paper was published in [Science](https://www.science.org/doi/10.1126/science.adk8261). 
+
+#####  *- [2024-10-01]: Our 'LLM lying' paper was submitted to [ICLR](https://winnieyangwannan.github.io/LLM_Deception/).*{: style="color: #5663b0;" }
 
 
+#####  *- [2024-05-21]: Our 'ripple-tagging' paper was covered in the [Quanta Magzine](https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/).*{: style="color: #5663b0;" }
+
+
+#####  *- [2024-03-28]: Our 'ripple-tagging' paper was published in [Science](https://www.science.org/doi/10.1126/science.adk8261).*{: style="color: #5663b0;" }

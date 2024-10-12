@@ -2,7 +2,7 @@
 layout: page
 title: 😈🤖 LLM Deception
 permalink: /LLM_Deception/
-description: Universal motif when LLMs knowingly lie.
+description: Universal motif when LLMs 'knowingly lie'
 img: assets/img/project_deception/deception.png
 #redirect: https://unsplash.com
 importance: 1
