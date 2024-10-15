@@ -10,9 +10,11 @@ display_categories: [AI, Neuroscience]
 horizontal: false
 ---
 
-> ##### NOTE!
-> This page is under construction. More projects will be updated soon ⏳ 
-{: .block-warning }
+[//]: # (> ##### NOTE!)
+
+[//]: # (> This page is under construction. More projects will be updated soon ⏳ )
+
+[//]: # ({: .block-warning })
 
 
 <!-- pages/projects.md -->
