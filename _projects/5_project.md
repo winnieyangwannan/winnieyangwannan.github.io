@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 🧭🕹️ SAE steering
+permalink: /SAE_steering/
 description: Steering LLMs with SAE features
 img: assets/img/sae.png
 #redirect: https://www.lesswrong.com/posts/zgM92GFsgDi5XaSda/deception-and-jailbreak-sequence-2-iterative-refinement
