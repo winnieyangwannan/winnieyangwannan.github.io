@@ -9,4 +9,3 @@ importance: 2
 category: Neuroscience
 ---
 
-<object data="/assets/pdf/events.pdf" width="1000" height="1000" type='application/pdf'></object>
