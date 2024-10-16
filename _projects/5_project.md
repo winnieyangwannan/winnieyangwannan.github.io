@@ -12,13 +12,16 @@ category: AI
 
 In order to get a sense of how good SAEs are for [downstream tasks (especially those that are safety-related)](https://www.alignmentforum.org/s/a6ne2ve5uturEEQK7/p/Es2qzCxhJ8QYsckaA), I started to explore using SAE feature to steer LLMs.
 
-- To get started, playing with the "Golden gate bridge" steering.
-  - Link to my [Google Colab](https://colab.research.google.com/drive/1lm03DzGwTW2pqJ2YovwpCTcb_j_TmMol?usp=sharing)
+[//]: # (- To get started, playing with the "Golden gate bridge" steering.)
 
+[//]: # (  - Link to my [Google Colab]&#40;https://colab.research.google.com/drive/1lm03DzGwTW2pqJ2YovwpCTcb_j_TmMol?usp=sharing&#41;)
 
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (- Steering lying model to become honest.)
 
-- Steering lying model to become honest.
-  - Link to my [Google Colab](https://colab.research.google.com/drive/1dE1ATJ3fPJWGFBAJG2C5wIc8sPkCBcq6?usp=sharing)
+[//]: # (  - Link to my [Google Colab]&#40;https://colab.research.google.com/drive/1dE1ATJ3fPJWGFBAJG2C5wIc8sPkCBcq6?usp=sharing&#41;)
 
 
 
