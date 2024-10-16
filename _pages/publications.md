@@ -72,3 +72,4 @@ Analogue representation of a spatial memory by ramp-like neural activity in retr
 C. Sun,  <u> W. Yang </u>, J. Martin, S. Tonegawa. (2020).
 Hippocampal neurons represent events as transferable units of experience. ***Nature Neuroscience***.
 [[Paper link](https://www.nature.com/articles/s41593-020-0614-x)]
+
