@@ -59,7 +59,7 @@ Symmetry and Geometry in Neural Representations Workshop ***NeurIPS***.
 E. Y. Kimchi , A. Burgos-Robles, G. A. Matthews, T. Chakoma, M. Patarino, J. Weddington, C. A. Siciliano, <u> W. Yang </u> ,
 S. Foutch, R. Simons, M. Fong, M. Jing, Y. Li, D. B. Polley, Kay M. Tye. (2023).
 Reward contingency gates selective cholinergic suppression of amygdala neurons. ***eLife***.
-[[Paper link](https://elifesciences.org/articles/89093A)]   
+[[Paper link](https://elifesciences.org/articles/89093)]   
 
 
 ---
