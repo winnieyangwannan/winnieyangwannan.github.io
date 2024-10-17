@@ -47,7 +47,7 @@ I've started the exciting journey of transitioning from neuroscience to AI resea
 ## *NEWS*{: style="color: #5663b0;" }
 
 
-#####  *- [2024-10-12]: Our 'LLM lying' paper was accepted at the SafeGenAi workshop at [NeurIPS](https://winnieyangwannan.github.io/LLM_Deception/).*{: style="color: #5663b0;" }
+#####  *- [2024-10-12]: Our 'LLM lying' paper was accepted at the SafeGenAi workshop at [NeurIPS](https://winnieyangwannan.github.io/LLM_Deception/). 🎉*{: style="color: #5663b0;" }
 
 
 
@@ -59,4 +59,4 @@ I've started the exciting journey of transitioning from neuroscience to AI resea
 
 
 
-#####  *- [2024-03-28]: Our 'ripple-tagging' paper was published in [Science](https://www.science.org/doi/10.1126/science.adk8261).*{: style="color: #5663b0;" }
+#####  *- [2024-03-28]: Our 'ripple-tagging' paper was published in [Science](https://www.science.org/doi/10.1126/science.adk8261).🎉*{: style="color: #5663b0;" }
