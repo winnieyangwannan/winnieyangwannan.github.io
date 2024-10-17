@@ -44,19 +44,19 @@ I've started the exciting journey of transitioning from neuroscience to AI resea
 ---
 
 
-[//]: # (## *NEWS*{: style="color: #5663b0;" })
+## *NEWS*{: style="color: #5663b0;" }
 
-[//]: # ()
-[//]: # (#####  *- [2024-10-12]: Our 'LLM lying' paper was accepted at the SafeGenAi workshop at [NeurIPS]&#40;https://winnieyangwannan.github.io/LLM_Deception/&#41;.*{: style="color: #5663b0;" })
 
-[//]: # ()
-[//]: # ()
-[//]: # (#####  *- [2024-10-01]: Our 'LLM lying' paper was submitted to [ICLR]&#40;https://winnieyangwannan.github.io/LLM_Deception/&#41;.*{: style="color: #5663b0;" })
+#####  *- [2024-10-12]: Our 'LLM lying' paper was accepted at the SafeGenAi workshop at [NeurIPS](https://winnieyangwannan.github.io/LLM_Deception/).*{: style="color: #5663b0;" }
 
-[//]: # ()
-[//]: # ()
-[//]: # (#####  *- [2024-05-21]: Our 'ripple-tagging' paper was covered in the [Quanta Magzine]&#40;https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/&#41;.*{: style="color: #5663b0;" })
 
-[//]: # ()
-[//]: # ()
-[//]: # (#####  *- [2024-03-28]: Our 'ripple-tagging' paper was published in [Science]&#40;https://www.science.org/doi/10.1126/science.adk8261&#41;.*{: style="color: #5663b0;" })
+
+#####  *- [2024-10-01]: Our 'LLM lying' paper was submitted to [ICLR](https://winnieyangwannan.github.io/LLM_Deception/).*{: style="color: #5663b0;" }
+
+
+
+#####  *- [2024-05-21]: Our 'ripple-tagging' paper was covered in the [Quanta Magzine](https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/).*{: style="color: #5663b0;" }
+
+
+
+#####  *- [2024-03-28]: Our 'ripple-tagging' paper was published in [Science](https://www.science.org/doi/10.1126/science.adk8261).*{: style="color: #5663b0;" }
