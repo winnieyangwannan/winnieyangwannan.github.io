@@ -46,6 +46,9 @@ I've started the exciting journey of transitioning from neuroscience to AI resea
 
 ## *NEWS*{: style="color: #5663b0;" }
 
+#####  *- [2025-01-08]: Our paper titled "Hippocampal neuronal activity is aligned with action plans" was published in [Nature](https://www.nature.com/articles/s41586-024-08397-7). 🎉*{: style="color: #5663b0;" }
+
+
 
 #####  *- [2024-10-12]: Our 'LLM lying' paper was accepted at the SafeGenAi workshop at [NeurIPS](https://winnieyangwannan.github.io/LLM_Deception/). 🎉*{: style="color: #5663b0;" }
 
