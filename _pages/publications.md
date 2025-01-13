@@ -10,6 +10,14 @@ nav_order: 2
 
 ---
 
+I. Zutshi, A. Apostolelli, <u >W. Yang </u>, Z. Zheng, T. Dohi, E. Balzani, A. H. Williams, C. Savin, G. Buzsáki. (2025).
+Hippocampal neuronal activity is aligned with action plans. ***Nature***.
+[[Paper link](https://www.nature.com/articles/s41586-024-08397-7)]  
+
+
+---
+
+
 <u> W. Yang </u> , G. Buzsáki. (2024). 
 Interpretability of LLMs Deception: Universal Motif. ***ICLR*** (under review).
 [[Paper link](https://openreview.net/attachment?id=znL549Ymoi&name=pdf)]    [[Github link](https://github.com/winnieyangwannan/deception_and_jailbreak)] 

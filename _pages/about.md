@@ -27,7 +27,7 @@ where I decode the content of 'dream' (replay) to unravel the mechanism of
 [Science](https://www.science.org/doi/10.1126/science.adk8261) 🥳).
 
 ### From Neuroscience to AI
-Recent advancements in Large Language Models (LLMs) have sparked a profound shift in
+Recent advancements in Large Language Models (LLMs) have sparked a major shift in
 my research focus. I've come to recognize that ensuring the safety of artificial intelligence is one of the most critical
 challenges of our time!
 
