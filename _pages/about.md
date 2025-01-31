@@ -27,18 +27,15 @@ where I decode the content of 'dream' (replay) to unravel the mechanism of
 [Science](https://www.science.org/doi/10.1126/science.adk8261) 🥳).
 
 ### From Neuroscience to AI
-Recent advancements in Large Language Models (LLMs) have sparked a major shift in
-my research focus. I've come to recognize that ensuring the safety of artificial intelligence is one of the most critical
-challenges of our time!
+In early 2024 I was beginning my transition from Neuroscience to AI. By then, progress in AI for several years had already exploded in a myriad of promise and hope. But what struck me in 2024 was that the **rate** of progress was continuing unabated, and my feelings of open-ended benefit for humanity turned to worries for our extinction as we barrel unprepared toward the direction of ASI. My main motivation is that in order for humanity to benefit from the plethora of benefits that AI brings, we _must make sure the system is aligned_, and we must build such safe systems **NOW**. This is a goal which I am wholly committed as my life’s work.
 
-I am also passionate about applying insight from my neuroscience research to build innovative AI-powered human-machine interfaces.
-
- 
+Within the broad goal of helping superalignment, my current research interests revolve around building automated alignment research assistants -- perhaps by better leveraging interpretability tools to monitor their internals.  One area, for instance, that I am currently excited about to is to monitor/evaluate the trustworthiness / deception of both alignment assistant (supervisor) and the supervisee via interpretability tools. Delving into the black box is within my existing expertise as a neuroscientist (expertise in ‘internal oversight’ of the brain) as well as my recent research experience in LLM deception. 
 
 ### Current Focus
 I've started the exciting journey of transitioning from neuroscience to AI research. My current interests include:
 
-- [Interpretability for AI safety](https://winnieyangwannan.github.io/LLM_Deception/) 
+- [Monitoring and steering LLMs to be honest](https://winnieyangwannan.github.io/LLM_Deception/) 
+- Scalable Oversight
 - Adversarial robustness
 
 ---
