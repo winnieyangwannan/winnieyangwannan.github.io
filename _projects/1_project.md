@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  🧠🏷️ Event Representation
+title:  🎬📽️🎞️ Event Representation
 #permalink: /event_representation/
 description: How discrete episodic events are represented in the brain
 img: assets/img/event.png
