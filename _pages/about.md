@@ -34,14 +34,19 @@ Within the broad goal of helping superalignment, my current research interests r
 ### Current Focus
 I've started the exciting journey of transitioning from neuroscience to AI research. My current interests include:
 
+- Evolving self-improve AI using evolutionary algorithm (collaborating with [Jenny Zhang](https://www.jennyzhangzt.com/)) 
+- [Hallucination Reduction](https://winnieyangwannan.github.io/hallucination_reduction/)
 - [Monitoring and steering LLMs to be honest](https://winnieyangwannan.github.io/LLM_Deception/) 
-- Scalable Oversight
-- Adversarial robustness
+
+
 
 ---
 
 
 ## *NEWS*{: style="color: #5663b0;" }
+
+
+#####  *- [2025-09-22]: Our Hallucination Reduction paper was published in [MI NeurIPS](https://openreview.net/pdf?id=t7zE9rOWHl). 🎉*{: style="color: #5663b0;" }
 
 #####  *- [2025-01-08]: Our paper titled "Hippocampal neuronal activity is aligned with action plans" was published in [Nature](https://www.nature.com/articles/s41586-024-08397-7). 🎉*{: style="color: #5663b0;" }
 

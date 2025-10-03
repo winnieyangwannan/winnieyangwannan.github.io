@@ -5,7 +5,7 @@ title: 😈🤖 LLM Deception
 description: Universal motif when LLMs 'knowingly lie'
 img: assets/img/project_deception/deception.png
 #redirect: https://unsplash.com
-importance: 1
+importance: 2
 category: AI
 ---
 

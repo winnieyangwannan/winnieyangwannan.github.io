@@ -10,9 +10,16 @@ nav_order: 2
 
 ---
 
+<u>W. Yang</u>, X. Qiu, L. Yu, Y. Zhang, O. A. Yang, N. Kokhlikyan, N. Cancedda, D. Garcia-Olano. (2025). 
+Hallucination Reduction with CASAL: Contrastive Activation Steering for Amortized Learning.
+MI NeurIPS.
+[[Paper link](https://openreview.net/pdf?id=t7zE9rOWHl)]
+
+---
+
 <u> W. Yang </u> , Z. Yang, C. Sun, G. Buzsáki. (2025). 
 How Large Language Models Lie: Rotation of the Truth
-Direction as a Universal Motif  ***ICML*** (under review).
+Direction as a Universal Motif.
 [[Paper link](https://winnieyangwannan.github.io/projects/3_project/)]    [[Github link](https://github.com/winnieyangwannan/deception_and_jailbreak)] 
 
 ---

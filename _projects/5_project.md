@@ -3,7 +3,7 @@ layout: page
 title: 🧭🕹️ SAE steering
 description: Steering LLMs with SAE features
 img: assets/img/sae.png
-importance: 3
+importance: 4
 category: AI
 ---
 
