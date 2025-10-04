@@ -69,7 +69,7 @@ category: AI
     <div class="citation-box" id="citation">@article{yang2025casal,
   title={Hallucination Reduction with CASAL: Contrastive Activation Steering for Amortized Learning},
   author={Yang, Wannan and Qiu, Xinchi and Yu, Lei and Zhang, Yuchen and Yang, Oliver Aobo and Kokhlikyan, Narine and Cancedda, Nicola and Garcia-Olano, Diego},
-  journal={arXiv preprint},
+  journal={preprint},
   year={2025}
 }</div>
     
