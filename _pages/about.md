@@ -34,7 +34,7 @@ My current interests include:
 - **Open-endedness**: Evolving self-improving LLM  Coding Agent using evolutionary algorithm (collaborating with [Jenny Zhang](https://www.jennyzhangzt.com/)) 
 - **AI Research Scientist**: In November 2025, I will join the AIRA Team at FAIR (manager: [Yoram Bachrach](https://www.linkedin.com/in/yoram-bachrach-0a03731/?originalSubdomain=uk)), building toward a fully automated AI research scientist.  
 
-### Past Research Hilight
+### Past Research Highlight
 In early 2024 I was beginning my transition from Neuroscience to AI. By then, progress in AI for several years had already exploded in a myriad of promise and hope. But what struck me in 2024 was that the **rate** of progress was continuing unabated, and my feelings of open-ended benefit for humanity turned to worries for our extinction as we barrel unprepared toward the direction of ASI. My main motivation is that in order for humanity to benefit from the plethora of benefits that AI brings, we _must make sure the system is aligned_, and we must build such safe systems **now**.
 
 Within the broad goal of helping superalignment, my have conducted research revolve around building automated alignment research assistants -- perhaps by better leveraging interpretability tools to monitor their internals.  
