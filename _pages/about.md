@@ -36,16 +36,11 @@ My current interests include:
 
 
 ### Past Research Highlight
-In early 2024 I was beginning my transition from Neuroscience to AI. By then, progress in AI for several years had already exploded in a myriad of promise and hope. But what struck me in 2024 was that the **rate** of progress was continuing unabated, and my feelings of open-ended benefit for humanity turned to worries for our extinction as we barrel unprepared toward the direction of ASI. My main motivation is that in order for humanity to benefit from the plethora of benefits that AI brings, we _must make sure the system is aligned_, and we must build such safe systems **now**.
+In early 2024 I was beginning my transition from Neuroscience to AI. By then, progress in AI for several years had already exploded in a myriad of promise and hope. But what struck me in 2024 was that the **rate** of progress. In order for humanity to benefit from the plethora of benefits that AI brings, we _must make sure the system is aligned_, and we must build such safe systems **now**.
 
-Within the broad goal of helping superalignment, my have conducted research revolve around building automated alignment research assistants -- perhaps by better leveraging interpretability tools to monitor their internals.  
+Within the broad goal of helping superalignment, I am interested in research revolving around building automated alignment research assistants.
 
-One area, for instance, that I have worked on is to monitor and characterize deception in LLMs ([Preprint](http://localhost:8080/projects/3_project/)). 
-
-Using interpretability insight, I have devellped an effiicient post-training agorithm to reduce hallucination in LLMs ([Preprint](https://arxiv.org/pdf/2510.02324)).
-
-
-Delving into the black box is within my existing expertise as a neuroscientist (expertise in ‘internal oversight’ of the brain) as well as my recent research experience in LLM deception. 
+Another area, for instance, that I have worked on is to monitor and characterize deception in LLMs ([Preprint](http://localhost:8080/projects/3_project/)). 
 
 ---
 
