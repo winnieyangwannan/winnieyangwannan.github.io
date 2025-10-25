@@ -38,9 +38,10 @@ My current interests include:
 ### Past Research Highlight
 In early 2024 I was beginning my transition from Neuroscience to AI. By then, progress in AI for several years had already exploded in a myriad of promise and hope. But what struck me in 2024 was that the **rate** of progress. In order for humanity to benefit from the plethora of benefits that AI brings, we _must make sure the system is aligned_, and we must build such safe systems **now**.
 
+One area, for instance, that I have worked on is to monitor and characterize deception in LLMs ([Preprint](http://localhost:8080/projects/3_project/)). 
+
 Within the broad goal of helping superalignment, I am interested in research revolving around building automated alignment research assistants.
 
-Another area, for instance, that I have worked on is to monitor and characterize deception in LLMs ([Preprint](http://localhost:8080/projects/3_project/)). 
 
 ---
 
