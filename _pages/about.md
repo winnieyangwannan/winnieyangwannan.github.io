@@ -24,7 +24,7 @@ social: ture # includes social icons at the bottom of the page
 I'm Winnie, a PhD candidate at New York University (NYU).
 
 
-My work spans from biological brains (my works were published in [Science](https://www.science.org/doi/10.1126/science.adk8261) and [Nature](https://www.nature.com/articles/s41586-024-08397-7) to autonomous LLM research agents (current research at Meta). I've spent years understanding biological learning machines and currently building artificial ones. The brain taught me how intelligence works. AI taught me how to build it. 
+My work spans from biological brains (my works were recently published in [Science](https://www.science.org/doi/10.1126/science.adk8261) and [Nature](https://www.nature.com/articles/s41586-024-08397-7)) to autonomous LLM research agents (current research at Meta). I've spent years understanding biological learning machines and currently building artificial ones. The brain taught me how intelligence works. AI taught me how to build it. 
 
 
 ### Current Focus
